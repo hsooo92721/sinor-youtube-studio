@@ -1,0 +1,1 @@
+import "./globals.css"; export const metadata = {title:"시놀 유튜브 작업실",description:"함께 고르고, 함께 준비하는 시놀의 이야기"}; export default function Layout({children}:{children:React.ReactNode}){return <html lang="ko"><body>{children}</body></html>}
