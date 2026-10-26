@@ -8,3 +8,5 @@
 .candidate-author{display:flex;gap:10px;align-items:center;font-size:11px;color:#8a9781;margin:-10px 0 22px}.candidate-author strong{font-weight:500;color:#506447;background:#f0f4ea;padding:4px 9px;border-radius:4px}
 
 .candidate-description{font-size:12px;line-height:1.9;color:#77856e;margin:-7px 0 23px;max-width:800px}
+
+.outline-note{font-size:11px;line-height:1.9;color:#859278;background:#f5f7f0;border-radius:5px;padding:10px 13px}.followups{font-size:12px;line-height:1.9;color:#637958;margin-top:12px}.followups summary{font-size:11px;cursor:pointer;color:#71905c}.followups ol{padding-left:19px;margin:9px 0 15px}.followups li{margin-bottom:9px}.answer .followups{padding:14px 18px;background:#f5f7ef;margin:15px 0 24px}.capture .followups{display:none}
