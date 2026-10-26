@@ -6,3 +6,5 @@
 .addmodes{display:flex;gap:10px;border-bottom:1px solid #e4e9df;padding-bottom:20px;margin-bottom:22px}.modalai h3{font-size:20px}.modalai p{font-size:12px}.modalai button{width:100%}
 
 .candidate-author{display:flex;gap:10px;align-items:center;font-size:11px;color:#8a9781;margin:-10px 0 22px}.candidate-author strong{font-weight:500;color:#506447;background:#f0f4ea;padding:4px 9px;border-radius:4px}
+
+.candidate-description{font-size:12px;line-height:1.9;color:#77856e;margin:-7px 0 23px;max-width:800px}
